@@ -1,0 +1,5 @@
+.desire{
+    background-color: var(--bg-color-primary);
+    font-size: var(--text-size-medium);
+    color: var(--text-color-primary);
+}
